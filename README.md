@@ -1,1 +1,1 @@
-# NodeApp
+# NodeAppA simple web application on NodeJS to serve the search request from db.
